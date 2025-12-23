@@ -1,6 +1,7 @@
 Hakkımda | About Me 
 
-🇹🇷
+TR
+
 Merhaba !
 Ben Boran SERT, Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim.
 Şu anda öğrenme aşamasındayım ve projeler geliştirerek kendimi geliştirmeye çalışıyorum.
@@ -11,6 +12,7 @@ Ayrıca Blender kullanarak low-poly assetler oluşturabiliyorum; bu da oyun geli
 Öğrenmeye istekliyim, geri bildirime açığım ve adım adım ilerlemeye odaklanıyorum.
 
 EN
+
 Hey there !
 I'm Boran SERT. I’m a 3rd-year Information Systems Engineering student at Kocaeli University.
 I’m currently in the learning phase and improving myself through hands-on projects.
